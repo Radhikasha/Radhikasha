@@ -39,13 +39,13 @@ Here are some of the key projects I’ve worked on:
 - **Description**: A simple web based implementation for replicating the working of Applicant Trackin System Software.
 - **Technologies**: HTML, CSS, Javascript, React, Node.js, MongoDB
 - **Key Features**: Suggestions provided using Generative AI.
-- **GitHub Repo**: [Find my site here]()
+  
 
 ### 2. [FarmFresh-Online Marketplace for local farm produce]
 - **Description**: A platform where farmer can list their produce and the end consumer can directly buy.
 - **Technologies**: Python, Flask, MySQL, Javascript, React, Node.js.
 - **Key Features**: Location of the seller and stock is displayed for simplifying the product searching facility.
-- **GitHub Repo**: [Find my site here]()
+
 
 ## 🧑‍💻 Coding Stats
 
